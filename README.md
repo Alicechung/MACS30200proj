@@ -1,4 +1,4 @@
 # MACS30200proj
-# 2017 Spring  
-# MACSS Alice Mee Seon Chung
+2017 Spring  
+MACSS Alice Mee Seon Chung
 
